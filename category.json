@@ -1,1 +1,3 @@
-{ "categories" : [{"name":"IT"},{"name":"Yangon"},{"name":"Japan"}] }
+{
+	"categories": ["IT", "Yangon", "Japan"]
+}
