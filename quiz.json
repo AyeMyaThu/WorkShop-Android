@@ -1,0 +1,22 @@
+{ "quiz" :
+ [
+{
+"id":1,
+"question":"What language used for making twitter?",
+"answers": [ "RoR", "Java","Fortran","Basic"],
+"collect":1
+},
+{
+"id":2,
+"question":"what is …..",
+"answers": [ "a", "b","c","d"],
+"collect":1
+},
+{
+"id":3,
+"question":"what is …..",
+"answers": [ "a", "b","c","d"],
+"collect":3
+}
+ ]
+}
